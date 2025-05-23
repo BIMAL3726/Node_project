@@ -73,4 +73,5 @@ router.delete('/:id',async(req,res)=>{
              console.log("error find",err)
         }
 })
+//exports router add
 module.exports=router;
